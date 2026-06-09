@@ -1,7 +1,0 @@
----
-title: "Welcome to the Urban Economics class"
-date: "2026-02-03T09:00"
-categories: [welcome]
----
-
-Welcome to the Urban Economics class! This page will be the home for announcements, updates, and reminders throughout the semester.

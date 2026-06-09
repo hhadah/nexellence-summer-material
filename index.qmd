@@ -1,6 +1,6 @@
 ---
-title: "Urban Economics"
-subtitle: "Cities, housing markets, transportation, and local public policy"
+title: "Nexellence"
+subtitle: ""
 details: |
   {{< var course.number >}} • {{< var course.semester >}}<br>{{< var school.name >}}<br>{{< var university.name >}}
 sidebar: false
@@ -46,8 +46,167 @@ course-logo: /files/course-icon.png
 
 ## About this course
 
-Urban economics explains why cities exist, how they grow, and how people and firms sort across space. We will study classic urban models, housing and labor market dynamics, transportation and congestion, neighborhood choice and segregation, and local public finance. Along the way, we will use data to connect theory to real-world patterns.
+Welcome to **Nexellence INQUIRE** — Integrated Research Methods & Data Science. Over three weeks and fifteen full-day sessions, you'll work as a junior researcher: asking questions, designing studies, analyzing data, and presenting real research at the final Research Summit.
 
-You can find the syllabus, weekly schedule, lecture notes, labs, and assignments in the navigation bar above.
+The full schedule is below. Each session links to its slides in both HTML and PDF formats.
+
+::: {.schedule-page}
+
+## Schedule
+
+### Week 1 — Foundations of Inquiry
+
+<table class="schedule-table table">
+<thead>
+<tr>
+<th>Day</th>
+<th>Session</th>
+<th>Topic</th>
+<th>Slides (HTML)</th>
+<th>Slides (PDF)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 1</td>
+<td>Session 1</td>
+<td>Introduction to Research &amp; The Research Apprenticeship</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 2</td>
+<td>Session 2</td>
+<td>Curiosity, Variables &amp; Scientific Thinking</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 3</td>
+<td>Session 3</td>
+<td>From Curiosity to Research Question</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 4</td>
+<td>Session 4</td>
+<td>Literature Review — Finding &amp; Evaluating Evidence</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 5</td>
+<td>Session 5</td>
+<td>Research Design &amp; Methodology</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+</tbody>
+</table>
+
+### Week 2 — Investigation & Analysis
+
+<table class="schedule-table table">
+<thead>
+<tr>
+<th>Day</th>
+<th>Session</th>
+<th>Topic</th>
+<th>Slides (HTML)</th>
+<th>Slides (PDF)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 6</td>
+<td>Session 6</td>
+<td>Planning a Study &amp; Deepening the Literature Review</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 7</td>
+<td>Session 7</td>
+<td>Academic Writing &amp; Presenting Research — The Story of Your Study</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 8</td>
+<td>Session 8</td>
+<td>Understanding Data &amp; Beginning Analysis</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 9</td>
+<td>Session 9</td>
+<td>Data Analysis — Finding Patterns &amp; Testing Hypotheses</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 10</td>
+<td>Session 10</td>
+<td>Synthesizing Findings &amp; Polishing the Middle</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+</tbody>
+</table>
+
+### Week 3 — Synthesis, Communication & Presentation
+
+<table class="schedule-table table">
+<thead>
+<tr>
+<th>Day</th>
+<th>Session</th>
+<th>Topic</th>
+<th>Slides (HTML)</th>
+<th>Slides (PDF)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 11</td>
+<td>Session 11</td>
+<td>Interpreting Findings &amp; Discussion</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 12</td>
+<td>Session 12</td>
+<td>Research Ethics, Final Slide Polish &amp; References</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 13</td>
+<td>Session 13</td>
+<td>Full Rehearsal &amp; Peer Feedback</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 14</td>
+<td>Session 14</td>
+<td>Final Preparations, Reflection &amp; Camp Review</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+<tr>
+<td>Day 15</td>
+<td>Session 15</td>
+<td>Research Summit — Final Presentations &amp; Celebration</td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
+<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+</tr>
+</tbody>
+</table>
+
+:::
 
 :::

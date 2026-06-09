@@ -1,9 +1,0 @@
----
-title: "R Labs"
----
-
-Lab instructions and datasets will be posted here.
-
-## Labs
-
-Use the sidebar to navigate to individual lab sessions. Each lab includes instructions, code examples, and exercises.

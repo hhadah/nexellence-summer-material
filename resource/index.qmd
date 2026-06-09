@@ -1,7 +1,0 @@
----
-title: Helpful resources
----
-
-This page will collect datasets, reading guides, mapping resources, and other tools that are useful for urban economics. I'll add links here throughout the semester.
-
-Use the sidebar navigation to browse through the different resource categories and guides.
