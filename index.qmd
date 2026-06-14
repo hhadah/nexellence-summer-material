@@ -16,7 +16,7 @@ format:
 
 Welcome to **Nexellence INQUIRE** — Integrated Research Methods & Data Science. Over three weeks and fifteen full-day sessions, you'll work as a junior researcher: asking questions, designing studies, analyzing data, and presenting real research at the final Research Summit.
 
-The full schedule is below. Each session links to its slides in both HTML and PDF formats.
+Each full day runs in two blocks: a **morning ResearchCORE** session (research methods) and an **afternoon DataCORE** session (data science). The schedule below lists both, each linking to its slides in HTML and PDF.
 
 ::: {.schedule-page}
 
@@ -29,9 +29,10 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <tr>
 <th>Day</th>
 <th>Session</th>
-<th>Topic</th>
-<th>Slides (HTML)</th>
-<th>Slides (PDF)</th>
+<th>Morning · ResearchCORE</th>
+<th>AM Slides</th>
+<th>Afternoon · DataCORE</th>
+<th>PM Slides</th>
 </tr>
 </thead>
 <tbody>
@@ -39,36 +40,41 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <td>Day 1</td>
 <td>Session 1</td>
 <td>Introduction to Research &amp; The Research Apprenticeship</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Thinking Like a Data Detective<br><small class="text-muted">Chapter 1</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 2</td>
 <td>Session 2</td>
 <td>Curiosity, Variables &amp; Scientific Thinking</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Intro to Python &amp; Data 101 — Types, Formats &amp; Statistics<br><small class="text-muted">Chapter 2</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 3</td>
 <td>Session 3</td>
 <td>From Curiosity to Research Question</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Data Analysis in Python — Filtering &amp; Subsetting<br><small class="text-muted">Chapter 4</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 4</td>
 <td>Session 4</td>
 <td>Literature Review — Finding &amp; Evaluating Evidence</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Descriptive Statistics &amp; Visualization<br><small class="text-muted">Chapter 2 · Chapter 4</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 5</td>
 <td>Session 5</td>
 <td>Research Design &amp; Methodology</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Dirty Data &amp; Intro to R<br><small class="text-muted">Chapter 6 · Chapter 3</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
@@ -80,9 +86,10 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <tr>
 <th>Day</th>
 <th>Session</th>
-<th>Topic</th>
-<th>Slides (HTML)</th>
-<th>Slides (PDF)</th>
+<th>Morning · ResearchCORE</th>
+<th>AM Slides</th>
+<th>Afternoon · DataCORE</th>
+<th>PM Slides</th>
 </tr>
 </thead>
 <tbody>
@@ -90,36 +97,41 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <td>Day 6</td>
 <td>Session 6</td>
 <td>Planning a Study &amp; Deepening the Literature Review</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Exploratory Data Analysis (EDA)<br><small class="text-muted">Chapter 8</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 7</td>
 <td>Session 7</td>
 <td>Academic Writing &amp; Presenting Research — The Story of Your Study</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Making Inferences — Confidence Intervals &amp; Hypothesis Testing<br><small class="text-muted">Chapter 9</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 8</td>
 <td>Session 8</td>
 <td>Understanding Data &amp; Beginning Analysis</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Data Wrangling — GroupBy, Merge &amp; Pivot<br><small class="text-muted">Chapter 7</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 9</td>
 <td>Session 9</td>
 <td>Data Analysis — Finding Patterns &amp; Testing Hypotheses</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Patterns, Correlation &amp; Regression<br><small class="text-muted">Chapter 8 · Chapter 9</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 10</td>
 <td>Session 10</td>
 <td>Synthesizing Findings &amp; Polishing the Middle</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Solving a Data Mystery — Capstone<br><small class="text-muted">Chapter 10</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
@@ -131,9 +143,10 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <tr>
 <th>Day</th>
 <th>Session</th>
-<th>Topic</th>
-<th>Slides (HTML)</th>
-<th>Slides (PDF)</th>
+<th>Morning · ResearchCORE</th>
+<th>AM Slides</th>
+<th>Afternoon · DataCORE</th>
+<th>PM Slides</th>
 </tr>
 </thead>
 <tbody>
@@ -141,36 +154,41 @@ The full schedule is below. Each session links to its slides in both HTML and PD
 <td>Day 11</td>
 <td>Session 11</td>
 <td>Interpreting Findings &amp; Discussion</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Robustness &amp; Interactive Visualization<br><small class="text-muted">Chapter 7 · Chapter 10 (review)</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 12</td>
 <td>Session 12</td>
 <td>Research Ethics, Final Slide Polish &amp; References</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Reproducibility &amp; Slide Storytelling<br><small class="text-muted">Chapter 10 (review)</small></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 13</td>
 <td>Session 13</td>
 <td>Full Rehearsal &amp; Peer Feedback</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Concept Review &amp; Technical Rehearsal<br><small class="text-muted">No new deck — review</small></td>
+<td>—</td>
 </tr>
 <tr>
 <td>Day 14</td>
 <td>Session 14</td>
 <td>Final Preparations, Reflection &amp; Camp Review</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>Portfolio Check &amp; Data Art<br><small class="text-muted">No new deck — review</small></td>
+<td>—</td>
 </tr>
 <tr>
 <td>Day 15</td>
 <td>Session 15</td>
 <td>Research Summit — Final Presentations &amp; Celebration</td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-display fa-lg"></i></a></td>
-<td><a href="#" target="_blank"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>—</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>

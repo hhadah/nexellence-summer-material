@@ -21,13 +21,6 @@ website:
 
   draft-mode: unlinked
 
-  announcement:
-    icon: calendar-check
-    dismissable: true
-    content: "**Welcome!** Check the schedule for important dates and deadlines"
-    type: info
-    position: below-navbar
-
   favicon: "/files/favicon-512.png"
 
   open-graph:
