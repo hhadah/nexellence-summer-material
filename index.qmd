@@ -40,41 +40,41 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 1</td>
 <td>Session 1</td>
 <td>Introduction to Research &amp; The Research Apprenticeship</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/01-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/01-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Thinking Like a Data Detective<br><small class="text-muted">Chapter 1</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/06-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/06-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 2</td>
 <td>Session 2</td>
 <td>Curiosity, Variables &amp; Scientific Thinking</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/02-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/02-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Intro to Python &amp; Data 101 — Types, Formats &amp; Statistics<br><small class="text-muted">Chapter 2</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-07-academic-writing-presenting-research/07-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-07-academic-writing-presenting-research/07-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 3</td>
 <td>Session 3</td>
 <td>From Curiosity to Research Question</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/03-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/03-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Data Analysis in Python — Filtering &amp; Subsetting<br><small class="text-muted">Chapter 4</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-09-data-analysis-patterns-hypotheses/09-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-09-data-analysis-patterns-hypotheses/09-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 4</td>
 <td>Session 4</td>
 <td>Literature Review — Finding &amp; Evaluating Evidence</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/04-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/04-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Descriptive Statistics &amp; Visualization<br><small class="text-muted">Chapter 2 · Chapter 4</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-07-academic-writing-presenting-research/07-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-07-academic-writing-presenting-research/07-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 5</td>
 <td>Session 5</td>
 <td>Research Design &amp; Methodology</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/05-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/05-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Dirty Data &amp; Intro to R<br><small class="text-muted">Chapter 6 · Chapter 3</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/11-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/11-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
@@ -97,41 +97,41 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 6</td>
 <td>Session 6</td>
 <td>Planning a Study &amp; Deepening the Literature Review</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/05-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/05-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Exploratory Data Analysis (EDA)<br><small class="text-muted">Chapter 8</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-13-full-rehearsal-peer-feedback/13-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-13-full-rehearsal-peer-feedback/13-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 7</td>
 <td>Session 7</td>
 <td>Academic Writing &amp; Presenting Research — The Story of Your Study</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-7/07-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-7/07-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Making Inferences — Confidence Intervals &amp; Hypothesis Testing<br><small class="text-muted">Chapter 9</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-14-final-preparations-reflection/14-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-14-final-preparations-reflection/14-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 8</td>
 <td>Session 8</td>
 <td>Understanding Data &amp; Beginning Analysis</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-6/06-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-6/06-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Data Wrangling — GroupBy, Merge &amp; Pivot<br><small class="text-muted">Chapter 7</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/12-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/12-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 9</td>
 <td>Session 9</td>
 <td>Data Analysis — Finding Patterns &amp; Testing Hypotheses</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-7/07-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-7/07-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Patterns, Correlation &amp; Regression<br><small class="text-muted">Chapter 8 · Chapter 9</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-13-full-rehearsal-peer-feedback/13-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-13-full-rehearsal-peer-feedback/13-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 10</td>
 <td>Session 10</td>
 <td>Synthesizing Findings &amp; Polishing the Middle</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-8/08-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-8/08-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Solving a Data Mystery — Capstone<br><small class="text-muted">Chapter 10</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-15-research-summit-presentations/15-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-15-research-summit-presentations/15-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
@@ -154,23 +154,23 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 11</td>
 <td>Session 11</td>
 <td>Interpreting Findings &amp; Discussion</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-8/08-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-8/08-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Robustness &amp; Interactive Visualization<br><small class="text-muted">Chapter 7 · Chapter 10 (review)</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/12-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/12-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 12</td>
 <td>Session 12</td>
 <td>Research Ethics, Final Slide Polish &amp; References</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Reproducibility &amp; Slide Storytelling<br><small class="text-muted">Chapter 10 (review)</small></td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-15-research-summit-presentations/15-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-15-research-summit-presentations/15-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 13</td>
 <td>Session 13</td>
 <td>Full Rehearsal &amp; Peer Feedback</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Concept Review &amp; Technical Rehearsal<br><small class="text-muted">No new deck — review</small></td>
 <td>—</td>
 </tr>
@@ -178,7 +178,7 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 14</td>
 <td>Session 14</td>
 <td>Final Preparations, Reflection &amp; Camp Review</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/day-9/09-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Portfolio Check &amp; Data Art<br><small class="text-muted">No new deck — review</small></td>
 <td>—</td>
 </tr>
@@ -186,7 +186,7 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 15</td>
 <td>Session 15</td>
 <td>Research Summit — Final Presentations &amp; Celebration</td>
-<td><a href="#" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>—</td>
 <td>—</td>
 <td>—</td>
 </tr>
