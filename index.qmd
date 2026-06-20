@@ -40,9 +40,9 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 1</td>
 <td>Session 1</td>
 <td>Introduction to Research &amp; The Research Apprenticeship</td>
-<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/01-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/01-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
-<td>Thinking Like a Data Detective<br><small class="text-muted">Chapter 1</small></td>
-<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/06-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/06-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/am/01-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/am/01-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td>DataCORE<br><small class="text-muted">Session 1</small></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 2</td>
