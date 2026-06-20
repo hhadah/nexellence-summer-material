@@ -48,7 +48,7 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Day 2</td>
 <td>Session 2</td>
 <td>Curiosity, Variables and Scientific Thinking</td>
-<td><a href="week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Intro to Python &amp; Data 101 — Types, Formats &amp; Statistics<br><small class="text-muted">Chapter 2</small></td>
 <td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
