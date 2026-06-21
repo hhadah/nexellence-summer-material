@@ -50,31 +50,31 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 <td>Curiosity, Variables and Scientific Thinking</td>
 <td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/am/02-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Intro to Python &amp; Data 101 — Types, Formats &amp; Statistics<br><small class="text-muted">Chapter 2</small></td>
-<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-01-introduction-to-research/pm/01-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/pm/02-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-02-curiosity-variables-scientific-thinking/pm/02-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 3</td>
 <td>Session 3</td>
 <td>From Curiosity to Research Question</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/am/03-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/am/03-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Data Feasibility Check</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/pm/03-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-03-from-curiosity-to-research-question/pm/03-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 4</td>
 <td>Session 4</td>
 <td>Literature Review — Finding &amp; Evaluating Evidence</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/am/04-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/am/04-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Descriptive Statistics &amp; Distributions</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/pm/04-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-04-literature-review/pm/04-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 5</td>
 <td>Session 5</td>
 <td>Research Design &amp; Methodology</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/am/05-class.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/am/05-class.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Data Cleaning Workshop</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/pm/05-pm-datacore.html" target="_blank" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-01-foundations-of-inquiry/session-05-research-design-methodology/pm/05-pm-datacore.pdf" target="_blank" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
