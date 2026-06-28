@@ -20,6 +20,10 @@ Each full day runs in two blocks: a **morning ResearchCORE** session (research m
 
 ::: {.schedule-page}
 
+## Datasets
+
+Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/datasets) to all the datasets that will be used.
+
 ## Schedule
 
 ### Week 1 — Foundations of Inquiry
