@@ -102,7 +102,7 @@ Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/
 <td>Session 6</td>
 <td>Planning a Study &amp; Deepening the Literature Review</td>
 <td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/am/slides.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/am/slides.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
-<td>Exploratory Data Analysis &mdash; Full Pipeline</td>
+<td>Inference & Regression</td>
 <td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/pm/06-pm-datacore.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-06-planning-a-study-deepening-lit-review/pm/06-pm-datacore.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
