@@ -117,9 +117,9 @@ Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/
 <td>Day 8</td>
 <td>Session 8</td>
 <td>Understanding Data &amp; Beginning Analysis</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-08-understanding-data-beginning-analysis/am/08-class.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-08-understanding-data-beginning-analysis/am/08-class.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Advanced Pandas — GroupBy, Pivot Tables &amp; Merging</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-08-understanding-data-beginning-analysis/pm/08-pm-datacore.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-08-understanding-data-beginning-analysis/pm/08-pm-datacore.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 9</td>
