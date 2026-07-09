@@ -133,9 +133,9 @@ Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/
 <td>Day 10</td>
 <td>Session 10</td>
 <td>Synthesizing Findings &amp; Polishing the Middle</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-10-synthesizing-findings/am/10-class.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-10-synthesizing-findings/am/10-class.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Final Analysis &amp; AI Results Check</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-10-synthesizing-findings/pm/10-pm-datacore.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-02-investigation-and-analysis/session-10-synthesizing-findings/pm/10-pm-datacore.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 </tbody>
 </table>
