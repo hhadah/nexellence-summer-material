@@ -158,9 +158,9 @@ Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/
 <td>Day 11</td>
 <td>Session 11</td>
 <td>Interpreting Findings &amp; Discussion</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/am/11-class.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/am/11-class.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Final Analysis Cleanup &amp; Robustness</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/pm/11-pm-datacore.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-11-interpreting-findings-discussion/pm/11-pm-datacore.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 12</td>
