@@ -166,9 +166,9 @@ Here is the [link](https://github.com/hhadah/nexellence-summer-instit/tree/main/
 <td>Day 12</td>
 <td>Session 12</td>
 <td>Research Ethics, Final Slide Polish &amp; References</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/am/12-class.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/am/12-class.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 <td>Reproducibility, Open Science &amp; Code Portfolio</td>
-<td><a href="#" title="HTML slides — coming soon"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="#" title="PDF slides — coming soon"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
+<td><a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/pm/12-pm-datacore.html" title="HTML slides"><i class="fa-solid fa-display fa-lg"></i></a>&nbsp;&nbsp;<a href="https://hhadah.github.io/nexellence-summer-instit/week-03-synthesis-communication-presentation/session-12-research-ethics-slide-polish-references/pm/12-pm-datacore.pdf" title="PDF slides"><i class="fa-solid fa-file-pdf fa-lg"></i></a></td>
 </tr>
 <tr>
 <td>Day 13</td>
